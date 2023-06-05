@@ -1,2 +1,2 @@
 !Hola Mundo!
-Archivo creado desde GihHub
+Archivo creado desde GitHub
